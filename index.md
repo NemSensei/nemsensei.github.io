@@ -10,15 +10,37 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# EXPÉRIENCES PROFESSIONNELLES
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Pentester
 
-## Header 2
+> Juin 2023 - Now.
+Pentest externe sur serveurs web et applicatifs indépendants (Linux et Windows) : Réalisation
+de tests de pénétration externes pour identifier et exploiter les vulnérabilités des serveurs web
+et des applications indépendantes. Outils principaux : Burp, Nessus, Feroxbuster, Wapiti, Nuclei.
+Analyse de surface d'attaque : Évaluation des surfaces d'attaque des systèmes et des réseaux
+pour identifier les points d'entrée potentiels, et fournir des recommandations pour renforcer la
+sécurité.
+Pentest internes dans des environnements AD (Linux et Windows) : Tests d’intrusion dans des
+environnements Active Directory pour simuler des attaques réelles et évaluer la résilience des
+infrastructures contre les menaces internes. Outils principaux : Nessus, Nmap, Impacket,
+BloodHound, Responder, CrackMapExec, Mimikatz.
+Audit de configuration sur la stratégie de politique de sécurité des firewalls : Réalisation
+d'audits de configuration pour évaluer et améliorer les stratégies de sécurité des firewalls, en
+assurant leur conformité avec les meilleures pratiques de l'industrie.
+Mise en place d'un laboratoire d'attaque Active Directory : Conception et déploiement d'un
+environnement de test dédié à l'évaluation des vulnérabilités et des stratégies de défense dans
+les infrastructures Active Directory.
+Intégration de Cyberwatch chez un client : Déploiement et configuration de la solution
+Cyberwatch pour améliorer la surveillance et la gestion des vulnérabilités, en assurant une
+protection continue et proactive.
+Campagnes de sensibilisation : Organisation et conduite de campagnes de sensibilisation à la
+sécurité pour former les employés sur les meilleures pratiques de sécurité et réduire les risques
+liés aux comportements humains.
+Intégration et Administration du SIEM Wazuh en interne : Mise en place de l’infrastructure et
+administration de la sécurité des endpoints Windows et Linux.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### Header 3
 
