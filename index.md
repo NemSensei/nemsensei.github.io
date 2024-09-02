@@ -1,15 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # EXPÉRIENCES PROFESSIONNELLES
 
 ## Pentester
@@ -48,29 +36,31 @@ liés aux comportements humains.
 administration de la sécurité des endpoints Windows et Linux.
 
 
+## Ingénieur Sécurité des réseaux 
 
-### Header 3
+> Février 2022 - Juin 2023.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*  Au sein de l'équipe sécurité des réseaux, participation au projet de microsegmentation sur les
+technologies illumio et VMware NSX.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*  Accompagnement des équipes de production applicative pour la mise en place de politiques de
+sécurité.
 
-#### Header 4
+*  Mise en place de la politique sur illumio et NSX, suivi, debug, harmonisation de la politique,
+transmission de connaissances.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+
+
+## Chef de projet Cybersécurité
+
+> Septembre 2021 - Février 2022.
+
+*  Gestion de projets autour de la sécurité des données
+**  Recueil du besoin auprès des pôles métiers
+**  Rédaction du cahier des charges pour les différents projets
+**  Préparation du plan d’action
+**  Suivi du planning
+
 
 ##### Header 5
 
