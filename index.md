@@ -16,6 +16,8 @@ environnements Active Directory pour simuler des attaques réelles et évaluer l
 infrastructures contre les menaces internes. Outils principaux : Nessus, Nmap, Impacket,
 BloodHound, Responder, CrackMapExec, Mimikatz.
 
+*  **Obtention de la certification OSCP**
+
 *  **Audit de configuration sur la stratégie de politique de sécurité des firewalls** : Réalisation
 d'audits de configuration pour évaluer et améliorer les stratégies de sécurité des firewalls, en
 assurant leur conformité avec les meilleures pratiques de l'industrie.
@@ -63,12 +65,33 @@ transmission de connaissances.
   - Préparation du plan d’action
   - Suivi du planning
 
+*  Mise en place de chiffrement des documents et mails (AIP/OME, S/MIME)
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+
+# Formation Scolaire
+
+**Ingénieur réseaux et sécurité**, ESIEE Paris,
+2018-2021
+
+**DUT Informatique**, IUT Jules Vernes Amiens,
+2016-2018
+**Baccalauréat S**, option Informatique et Science
+du Numérique, 2016
+
+
+# Certifications & CTF
+
+**Certification OSCP** ( offensive security
+certified professional), Offsec, 2024
+
+**Hack The Box rang Hacker** pseudo :
+NemSensei
+
+**Offsec Playground** : 252 points
+CTF : Brigitte Friang (DGSE), TRACS
+(DGSE), PicoCTF
+
 
 ###### Header 6
 
