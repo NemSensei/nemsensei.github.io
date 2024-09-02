@@ -10,7 +10,7 @@ CSI Linux est une distribution Linux axée sur la criminalistique numérique ope
 
 ## Proxmox
 
-Installation d'un home server avec Proxmox afin de virtualiser VM d'attaque et labs, notamment dans un futur proche https://github.com/Orange-Cyberdefense/GOAD
+Installation d'un home server avec Proxmox afin de virtualiser VMs d'attaque et labs, notamment dans un futur proche https://github.com/Orange-Cyberdefense/GOAD
 
 ## Wazuh
 
@@ -18,7 +18,7 @@ Installation de Wazuh pour monitorer les PCs de la maison autant dire qu'il y a 
 
 ## PortSwigger Labs
 
-En vu de passer la certification de Portswigger c'est surout pour aller plus en détail sur les vulnérabilités Web, pour l'instant 4 cours complétés : Path Traversal, file upload, Server-Sice Resquest Forgery, Authentication vulnerabilities. 
+En vu de passer la certification de Portswigger c'est surout pour aller plus en détail sur les vulnérabilités Web, pour l'instant 4 cours complétés : Path Traversal, file upload, Server-Side Resquest Forgery, Authentication vulnerabilities. 
 
 # EXPÉRIENCES PROFESSIONNELLES
 
