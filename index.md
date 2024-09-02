@@ -15,29 +15,36 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Pentester
 
 > Juin 2023 - Now.
-Pentest externe sur serveurs web et applicatifs indépendants (Linux et Windows) : Réalisation
+> 
+*  **Pentest externe sur serveurs web et applicatifs indépendants (Linux et Windows)** : Réalisation
 de tests de pénétration externes pour identifier et exploiter les vulnérabilités des serveurs web
 et des applications indépendantes. Outils principaux : Burp, Nessus, Feroxbuster, Wapiti, Nuclei.
 Analyse de surface d'attaque : Évaluation des surfaces d'attaque des systèmes et des réseaux
 pour identifier les points d'entrée potentiels, et fournir des recommandations pour renforcer la
 sécurité.
-Pentest internes dans des environnements AD (Linux et Windows) : Tests d’intrusion dans des
+
+*  **Pentest internes dans des environnements AD (Linux et Windows)** : Tests d’intrusion dans des
 environnements Active Directory pour simuler des attaques réelles et évaluer la résilience des
 infrastructures contre les menaces internes. Outils principaux : Nessus, Nmap, Impacket,
 BloodHound, Responder, CrackMapExec, Mimikatz.
-Audit de configuration sur la stratégie de politique de sécurité des firewalls : Réalisation
+
+*  **Audit de configuration sur la stratégie de politique de sécurité des firewalls** : Réalisation
 d'audits de configuration pour évaluer et améliorer les stratégies de sécurité des firewalls, en
 assurant leur conformité avec les meilleures pratiques de l'industrie.
-Mise en place d'un laboratoire d'attaque Active Directory : Conception et déploiement d'un
+
+*  **Mise en place d'un lab d'attaque Active Directory** : Conception et déploiement d'un
 environnement de test dédié à l'évaluation des vulnérabilités et des stratégies de défense dans
 les infrastructures Active Directory.
-Intégration de Cyberwatch chez un client : Déploiement et configuration de la solution
+
+*  **Intégration de Cyberwatch chez un client** : Déploiement et configuration de la solution
 Cyberwatch pour améliorer la surveillance et la gestion des vulnérabilités, en assurant une
 protection continue et proactive.
-Campagnes de sensibilisation : Organisation et conduite de campagnes de sensibilisation à la
+
+*  **Campagnes de sensibilisation** : Organisation et conduite de campagnes de sensibilisation à la
 sécurité pour former les employés sur les meilleures pratiques de sécurité et réduire les risques
 liés aux comportements humains.
-Intégration et Administration du SIEM Wazuh en interne : Mise en place de l’infrastructure et
+
+*  **Intégration et Administration du SIEM Wazuh en interne** : Mise en place de l’infrastructure et
 administration de la sécurité des endpoints Windows et Linux.
 
 
