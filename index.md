@@ -1,3 +1,25 @@
+# Side projects
+
+## PiRogue Tool Suite
+
+Suite d'outils d'analyse numérique OpenSource. Installation en cours sur une Raspberry Pi 4 Modèle B.
+
+## CSI Linux 
+
+CSI Linux est une distribution Linux axée sur la criminalistique numérique open source. Actuellement en train de monter en compétences en vu de la certification CSI Linux Certified Investigator (CSIL-CI)
+
+## Proxmox
+
+Installation d'un home server avec Proxmox afin de virtualiser VM d'attaque et labs, notamment dans un futur proche https://github.com/Orange-Cyberdefense/GOAD
+
+## Wazuh
+
+Installation de Wazuh pour monitorer les PCs de la maison autant dire qu'il y a peu de menaces :) 
+
+## PortSwigger Labs
+
+En vu de passer la certification de Portswigger c'est surout pour aller plus en détail sur les vulnérabilités Web, pour l'instant 4 cours complétés : Path Traversal, file upload, Server-Sice Resquest Forgery, Authentication vulnerabilities. 
+
 # EXPÉRIENCES PROFESSIONNELLES
 
 ## Pentester
