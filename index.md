@@ -16,7 +16,9 @@ environnements Active Directory pour simuler des attaques réelles et évaluer l
 infrastructures contre les menaces internes. Outils principaux : Nessus, Nmap, Impacket,
 BloodHound, Responder, CrackMapExec, Mimikatz.
 
-*  **Obtention de la certification OSCP**
+*  **Obtention de la certification OSCP** : Certifié OSCP (Offensive Security Certified Professional),
+démontrant une capacité en tests de pénétration et en sécurité offensive, avec une capacité à identifier
+et exploiter les vulnérabilités des systèmes d'information.
 
 *  **Audit de configuration sur la stratégie de politique de sécurité des firewalls** : Réalisation
 d'audits de configuration pour évaluer et améliorer les stratégies de sécurité des firewalls, en
@@ -59,14 +61,13 @@ transmission de connaissances.
 
 > Septembre 2021 - Février 2022.
 
--  Gestion de projets autour de la sécurité des données
+*  Mise en place de chiffrement des documents et mails (AIP/OME, S/MIME)
+
+- Gestion de projets autour de la sécurité des données
   - Recueil du besoin auprès des pôles métiers
   - Rédaction du cahier des charges pour les différents projets
   - Préparation du plan d’action
   - Suivi du planning
-
-*  Mise en place de chiffrement des documents et mails (AIP/OME, S/MIME)
-
 
 
 # Formation Scolaire
@@ -76,6 +77,7 @@ transmission de connaissances.
 
 **DUT Informatique**, IUT Jules Vernes Amiens,
 2016-2018
+
 **Baccalauréat S**, option Informatique et Science
 du Numérique, 2016
 
